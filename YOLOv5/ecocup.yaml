@@ -1,0 +1,6 @@
+train: ../yolo_data/images/train/  # dataset root dir
+val:   ../yolo_data/images/validation/  # val images (relative to 'path') 5000 images
+
+# Classes
+nc: 1  # number of classes
+names: ['ecocup']  # class names
