@@ -28,4 +28,4 @@ To use the object detection implementation of a specific method, navigate to the
 
 ## Credits
 
-This project was developed by [Your Name] as part of [Project Name]. The Mask R-CNN implementation is based on the Matterport implementation (https://github.com/matterport/Mask_RCNN). The YOLO implementation is based on the Darknet implementation (https://github.com/pjreddie/darknet).
+This project was developed by TRAN Quoc Hung and Benjamin Vivat. The Mask R-CNN implementation is based on the Matterport implementation (https://github.com/matterport/Mask_RCNN). The YOLO implementation is based on the Darknet implementation (https://github.com/pjreddie/darknet).
